@@ -1,3 +1,30 @@
 # California Cropland Monitoring and Modeling Framework
 
 ## About
+
+The California Cropland Monitoring and Modeling Framework (CCMMF) will be a biogeochemical model and data integration pipeline to generate inventories and future projections of soil carbon (SOC) stocks and greenhouse gas fluxes (GHG) from California’s croplands. 
+CCMMF will leverage Bayesian techniques to combine heterogeneous datasets into unified wall-to-wall inventories and climate and scenario-based projections. 
+Data layers will be generated as ensemble projections to facilitate propagation of uncertainty through downstream applications.
+
+CCMMF will produce new gridded time series of key agronomic practices including planting, harvest, irrigation, and tillage derived from satellite 
+measurements and agronomic statistics. 
+The biogeochemistry model will be built on SIPNET, expanded to represent agronomic management, nitrogen cycling, and fluxes of nitrous oxide and methane. 
+Using remotely sensed practices to drive the model will produce consistent model estimates that do not depend on obtaining records from individual farmers. 
+The statistical workflow engine will extend the Predictive Ecosystem Analyzer (PEcAn) to support annual updates and both climate-based and management scenario-based projections.
+
+The combination of a simplified biogeochemistry model that simulates agronomic practices from remote-sensed inputs and an open, consistent, variance-explicit data framework will allow CCMMF to achieve robust estimates of SOC and GHG inventories across lands with highly varied but coarsely measured management. 
+All data and software that is part of CCMMF will be open, free, and deployable on state computing resources. 
+This requirement sets a bar for transparency, and a foundation for future innovation and transferability, that is not possible with the current suite of proprietary systems.
+
+## People 
+
+Chris Black
+David LeBauer
+Mike Dietze
+Rob Kooper
+Mike Longfritz
+Shawn Serbin
+
+## Contributing
+
+## Useful Resources 
