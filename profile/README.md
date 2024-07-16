@@ -3,7 +3,7 @@
 ## About
 
 The California Cropland Monitoring and Modeling Framework (CCMMF) will be a biogeochemical model and data integration pipeline to generate inventories and future projections of soil carbon (SOC) stocks and greenhouse gas fluxes (GHG) from California’s croplands. 
-CCMMF will leverage Bayesian techniques to combine heterogeneous datasets into unified wall-to-wall inventories and climate and scenario-based projections. 
+CCMMF will leverage Bayesian techniques to combine model predictions and heterogeneous datasets into unified wall-to-wall inventories and climate and scenario-based projections. 
 Data layers will be generated as ensemble projections to facilitate propagation of uncertainty through downstream applications.
 
 CCMMF will produce new gridded time series of key agronomic practices including planting, harvest, irrigation, and tillage derived from satellite 
