@@ -18,13 +18,19 @@ This requirement sets a bar for transparency, and a foundation for future innova
 
 ## People 
 
-Chris Black
-David LeBauer
-Mike Dietze
-Rob Kooper
-Mike Longfritz
-Shawn Serbin
+- Chris Black, Pools and Fluxes LLC
+- David LeBauer, The LeBauer Approach LLC and The University of Arizona
+- Mike Dietze, Boston University
+- Rob Kooper, University of Illinois and National Center for Supercomputing Applications
+- Mike Longfritz
+- Shawn Serbin, NASA
+
+## Research Partners and External Stakeholders
+
+- National Aeronautics and Space Administration
+- California Air Resources Board
 
 ## Contributing
 
-## Useful Resources 
+This section will be developed as the project gets under way. In the mean time, feel free to reach out directly to team members or through our [GitHub
+Discussions](https://github.com/orgs/ccmmf/discussions).
