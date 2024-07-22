@@ -34,3 +34,11 @@ This requirement sets a bar for transparency, and a foundation for future innova
 
 This section will be developed as the project gets under way. In the mean time, feel free to reach out directly to team members or through our [GitHub
 Discussions](https://github.com/orgs/ccmmf/discussions).
+
+## Licenses and Copyright
+
+A central focus of this project is to generate open source software and open data that will enable transparency while facilitating reuse, collaboration, and derivative works. To this end, we plan to release our works under the following licenses:
+   
+- Software: BSD 3-Clause or compatible license
+- Writing: [CC-BY](https://creativecommons.org/licenses/by/4.0/)
+- Data Products: Public domain ([CC0](https://creativecommons.org/public-domain/cc0/)).
