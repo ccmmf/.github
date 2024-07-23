@@ -39,6 +39,6 @@ Discussions](https://github.com/orgs/ccmmf/discussions).
 
 A central focus of this project is to generate open source software and open data that will enable transparency while facilitating reuse, collaboration, and derivative works. To this end, we plan to release our works under the following licenses:
    
-- Software: BSD 3-Clause or compatible license
+- Software: BSD 3-Clause 
 - Writing: [CC-BY](https://creativecommons.org/licenses/by/4.0/)
 - Data Products: Public domain ([CC0](https://creativecommons.org/public-domain/cc0/)).
