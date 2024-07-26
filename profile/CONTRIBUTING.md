@@ -6,7 +6,8 @@ TODO:
 - Code style
 - What contributions go to PEcAn or SIPNET, what to CCMMF
   - Types of output: workflow, documentation, sipnet, monitoring
-- Guidance for tests, documentation, NEWS, CITATION.cff
+- Guidance for tests, documentation, NEWS
+- Authorship, CITATION.cff
 -->
 
 The California Cropland Monitoring and Modeling Framework (CCMMF) is an integrated pipeline
