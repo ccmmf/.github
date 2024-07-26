@@ -8,6 +8,7 @@ TODO:
   - Types of output: workflow, documentation, sipnet, monitoring
 - Guidance for tests, documentation, NEWS
 - Authorship, CITATION.cff
+- what goes in private vs public discussions?
 -->
 
 The California Cropland Monitoring and Modeling Framework (CCMMF) is an integrated pipeline
