@@ -42,3 +42,5 @@ A central focus of this project is to generate open source software and open dat
 - Software: BSD 3-Clause 
 - Writing: [CC-BY](https://creativecommons.org/licenses/by/4.0/)
 - Data Products: Public domain ([CC0](https://creativecommons.org/public-domain/cc0/)).
+
+If any work in a CCMMF repo is missing its LICENSE file or its terms of use are otherwise not clear, please tell us -- that is a bug and we will fix it.
