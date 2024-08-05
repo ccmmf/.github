@@ -43,4 +43,4 @@ A central focus of this project is to generate open source software and open dat
 - Writing: [CC-BY](https://creativecommons.org/licenses/by/4.0/)
 - Data Products: Public domain ([CC0](https://creativecommons.org/public-domain/cc0/)).
 
-If any work in a CCMMF repo is missing its LICENSE file or its terms of use are otherwise not clear, please tell us -- that is a bug and we will fix it.
+If any CCMMF software repositories, data products, or documentation are missing a LICENSE file or if their terms of use are unclear, please let us know. For any questions about the terms of use, feel free to [start a discussion](https://github.com/orgs/ccmmf/discussions) or contact a team lead.
