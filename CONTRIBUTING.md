@@ -46,9 +46,11 @@ read and agree this code.
 
 ## Code Contributions
 
-We accept code contributions via Pull Requests (PRs) to GitHub repositories. All PRs must be reviewed 
-by a member of the core CCMMF team and pass integration tests prior to being merged. 
-The general PR workflow is thus:
+We accept code contributions via Pull Requests (PRs) to GitHub repositories. GitHub provides excellent documentation of this process, e.g. [Creating a Pull Request from a Fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork).
+
+All PRs must be reviewed by a member of the core CCMMF team and 
+pass integration tests prior to being merged.
+The general PR workflow is:
 
 1. Identify an open issue, create a new feature request, or start a discussion.
 1. Fork the repository.
@@ -60,8 +62,8 @@ The general PR workflow is thus:
 7. Open a pull request to the 'develop' branch of the origin repository.
 8. Ensure tests pass.
 9. Address any questions or changes requested during review.
-10. Feature will be merged.
-11. Celebrate!
+
+Once your contribution is merged it is time to elebrate!
 
 ## Licenses and Copyright
 
