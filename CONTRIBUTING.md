@@ -26,7 +26,7 @@ software, and data products.
 ### Communication
 
 Feel free to reach out directly with ideas, questions, and suggestions through 
-our [GitHub Discussions](https://github.com/orgs/ccmmf/discussions) and join the CCMMF channel 
+our [GitHub Discussions](https://github.com/orgs/ccmmf/discussions) and join the #ccmmf channel 
 in the [PEcAn Project Slack](https://join.slack.com/t/pecanproject/shared_invite/enQtMzkyODUyMjQyNTgzLWEzOTM1ZjhmYWUxNzYwYzkxMWVlODAyZWQwYjliYzA0MDA0MjE4YmMyOTFhMjYyMjYzN2FjODE4N2Y4YWFhZmQ).
 
 ### Bug Reports
