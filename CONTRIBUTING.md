@@ -29,15 +29,14 @@ Feel free to reach out directly with ideas, questions, and suggestions through
 our [GitHub Discussions](https://github.com/orgs/ccmmf/discussions) and join the #ccmmf channel 
 in the [PEcAn Project Slack](https://join.slack.com/t/pecanproject/shared_invite/enQtMzkyODUyMjQyNTgzLWEzOTM1ZjhmYWUxNzYwYzkxMWVlODAyZWQwYjliYzA0MDA0MjE4YmMyOTFhMjYyMjYzN2FjODE4N2Y4YWFhZmQ).
 
-### Bug Reports
+### Bug Reports and Feature Suggestions
 
-If you find bugs, please report them by opening an issue in the appropriate GitHub repository.
-Provide a clear description of the bug and steps to reproduce it. 
+If you find bugs or would like to request a feature, please open an issue in the appropriate GitHub repository and select the approprate bug report or feature request template.
 
-If you find a bug or issue in R, 
+For **bugs**, please provide a clear description of the bug and steps to reproduce it. If you find a bug or issue in R, 
 please use the [reprex](https://reprex.tidyverse.org/) package to generate a reproducible example.
 
-### Feature Suggestions
+To request a new **feature**, it will often be helpful to use Slack or GitHub Discussions to flesh out and brainstorm ideas. A good feature request will include a clear description of the feature and how it would be used.
 
 ## Code of Conduct
 
