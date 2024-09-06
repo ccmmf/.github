@@ -32,8 +32,10 @@ This requirement sets a bar for transparency, and a foundation for future innova
 
 ## Contributing
 
-This section will be developed as the project gets under way. In the mean time, feel free to reach out directly to team members or through our [GitHub
-Discussions](https://github.com/orgs/ccmmf/discussions).
+Feel free to reach out directly to team members, through our [GitHub
+Discussions](https://github.com/orgs/ccmmf/discussions), or read our [Contributing Guidelines](../CONTRIBUTING.md).
+
+
 
 ## Licenses and Copyright
 
