@@ -4,7 +4,7 @@ about: Create a report to help us improve
 title: "[Bug]"
 labels: bug
 assignees: ''
-
+projects: ["ccmmf/4"]
 ---
 
 **Describe the bug**

@@ -4,10 +4,14 @@ about: Suggest an idea for this project
 title: "[Feature]"
 labels: enhancement
 assignees: ''
-
+projects: ["ccmmf/4"]
 ---
 
+<!--
+If you think this might warrant a discussion, please visit our discussion board at https://github.com/orgs/community/discussions  
+-->
 **Is your feature request related to a problem? Please describe.**
+
 A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
 
 **Describe the solution you'd like**

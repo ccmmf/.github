@@ -4,7 +4,7 @@ about: Checklist prior to submission of final versions
 title: "[Copyediting]"
 labels: writing
 assignees: ''
-
+projects: ["ccmmf/4"]
 ---
 
 ## Copy Edit Checklist
