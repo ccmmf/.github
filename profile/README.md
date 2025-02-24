@@ -16,6 +16,8 @@ The combination of a simplified biogeochemistry model that simulates agronomic p
 All data and software that is part of CCMMF will be open, free, and deployable on state computing resources. 
 This requirement sets a bar for transparency, and a foundation for future innovation and transferability, that is not possible with the current suite of proprietary systems.
 
+For more details, see the [full project proposal](https://zenodo.org/records/13377118).
+
 ## People 
 
 - Chris Black, Pools and Fluxes LLC
