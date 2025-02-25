@@ -1,16 +1,5 @@
 # Contributing to CCMMF
 
-<!-- 
-TODO:
-- Add preferred languages
-- Code style
-- What contributions go to PEcAn or SIPNET, what to CCMMF
-  - Types of output: workflow, documentation, sipnet, monitoring
-- Guidance for tests, documentation, NEWS
-- Authorship, CITATION.cff
-- what goes in private vs public discussions?
--->
-
 The California Cropland Monitoring and Modeling Framework (CCMMF) is an integrated pipeline
 built on the [SIPNET biogeochemistry model](https://github.com/pecanproject/sipnet) and 
 [PEcAn](https://github.com/pecanproject/) modeling, informatics, and statistical inference workflow 
@@ -18,7 +7,7 @@ engine.
 
 This is a guide for contributors and users of the software.
 
-> For an introduction to using GitHub and Slack for communication within the CCMMF community, see [GITHUB_SLACK_INTRODUCTION.md]
+> For an introduction to using GitHub and Slack for communication within the CCMMF community, see [GITHUB_SLACK_INTRODUCTION.md](GITHUB_SLACK_INTRODUCTION.md).
 
 
 ## How to contribute
