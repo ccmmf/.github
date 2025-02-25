@@ -18,6 +18,9 @@ engine.
 
 This is a guide for contributors and users of the software.
 
+> For an introduction to using GitHub and Slack for communication within the CCMMF community, see [GITHUB_SLACK_INTRODUCTION.md]
+
+
 ## How to contribute
 
 We welcome contributions from the community to help improve and apply CCMMF including documentation, 
