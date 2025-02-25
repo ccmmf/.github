@@ -1,7 +1,17 @@
 # CCMMF GitHub and Slack Guide
 
 ## Table of Contents
-- [Table of Contents](#table-of-contents)
+
+
+- [Overview](#overview)
+- [Quick Start Summary](#quick-start-summary)
+- [Understanding GitHub for Collaboration](#understanding-github-for-collaboration)
+- [Keeping Up To Date](#keeping-up-to-date)
+- [Interactions](#interactions)
+- [Additional Resources and Support](#additional-resources-and-support)
+
+
+<!--
 - [Overview](#overview)
 - [Quick Start Summary](#quick-start-summary)
 - [Understanding GitHub for Collaboration](#understanding-github-for-collaboration)
@@ -23,6 +33,7 @@
 	- [Alerting Team Members](#alerting-team-members)
 - [Notifications](#notifications)
 - [Additional Resources and Support](#additional-resources-and-support)
+-->
 
 ## Overview
 
@@ -79,7 +90,12 @@ The **main repositories** relevant to the CCMMF project are:
 	- Issues and Pull Requests labeled 'ccmmf': [github.com/PecanProject/pecan/labels/ccmmf](https://github.com/PecanProject/pecan/labels/ccmmf)
 -  **SIPNET Simplified Biogeochemistry Model:** [github.com/ccmmf/sipnet](https://github.com/ccmmf/sipnet)
 
-## Keeping Up To Date
+## Keeping Up To Date with Notifications
+
+To stay informed:
+- **Watch repositories selectively** (choose "Participating" or "Custom").
+- **Follow only relevant issues and PRs**.
+- **Email notifications**  can be set up in GitHub settings, and email client can be used for additional filters.
 
 ### Watch Repositories Selectively
 
@@ -169,12 +185,6 @@ GitHub **Pull Requests (PRs)** allow users to review and approve specific chan
 
 > Tip: it is often helpful to follow up with a **Slack** message to alert specific people about a new issue. 
 
-## Notifications
-
-To **stay informed** without overwhelming notifications:
-- **Watch repositories selectively** (choose "Participating" or "Custom").
-- **Follow only relevant issues and PRs**.
-- **Email notifications**  can be set up in GitHub settings, and email client can be used for additional filters .
 
 ## Additional Resources and Support
 
