@@ -18,13 +18,18 @@ This requirement sets a bar for transparency, and a foundation for future innova
 
 For more details, see the [full project proposal](https://zenodo.org/records/13377118).
 
-## Documentation
+## Code and documentation
 
-- [Calibration](https://ccmmf.github.io/calibration/): calibration of SIPNET soil carbon parameters against a long term field trial, and a benchmark of modeled management effects against the published literature
-- [Calibration and validation data](https://ccmmf.github.io/cal-val-data/): site measurements of soil carbon and greenhouse gas fluxes, and practice effects synthesized from the published literature
-- [Uncertainty](https://ccmmf.github.io/uncertainty/): local and global sensitivity analyses of modeled soil carbon and nitrous oxide
-- [Downscaling](https://ccmmf.github.io/downscaling/): historical inventory (2016-2023) of soil carbon, aboveground biomass, nitrous oxide and methane for California cropland at field and county scale, and scenario projections to 2045
-- [caladaptaer](https://lebauerapproach.github.io/caladaptaer/): R access to the Cal-Adapt Analytics Engine downscaled CMIP6 climate projections
+| Component | Description | Code | Docs |
+|---|---|---|---|
+| PEcAn | Ecological bioinformatics toolbox for model calibration, data assimilation and analysis workflows | [PecanProject/pecan](https://github.com/PecanProject/pecan) | [docs](https://pecanproject.github.io/pecan-documentation/latest/) |
+| SIPNET | Ecosystem model for coupled carbon, water, nitrogen and trace gas (N2O, CH4) dynamics, with event based management | [PecanProject/sipnet](https://github.com/PecanProject/sipnet) | [docs](https://pecanproject.github.io/sipnet/) |
+| Management monitoring | Field level crop identity and management events: planting, harvest, phenology, tillage, fertilization, organic amendments and irrigation | [pecan/modules/data.remote/inst/ccmmf](https://github.com/PecanProject/pecan/tree/develop/modules/data.remote/inst/ccmmf) | [training sessions](https://github.com/PecanProject/pecan/tree/develop/modules/data.remote/inst/ccmmf/documentation/sessions) |
+| Calibration | Calibration of SIPNET soil carbon parameters against a long term field trial, and a benchmark of modeled management effects against the published literature | [ccmmf/calibration](https://github.com/ccmmf/calibration) | [docs](https://ccmmf.github.io/calibration/) |
+| Calibration and validation data | Site measurements of soil carbon and greenhouse gas fluxes, and practice effects synthesized from the published literature | [ccmmf/cal-val-data](https://github.com/ccmmf/cal-val-data) | [docs](https://ccmmf.github.io/cal-val-data/) |
+| Uncertainty | Local and global sensitivity analyses of modeled soil carbon and nitrous oxide, and local sensitivity of methane at design points with rice history | [ccmmf/uncertainty](https://github.com/ccmmf/uncertainty) | [docs](https://ccmmf.github.io/uncertainty/) |
+| Downscaling | Historical inventory (2016-2023) of soil carbon, aboveground biomass, nitrous oxide and methane for California cropland at field and county scale, and scenario projections to 2045 | [ccmmf/downscaling](https://github.com/ccmmf/downscaling) | [docs](https://ccmmf.github.io/downscaling/) |
+| caladaptaer | R access to the Cal-Adapt Analytics Engine downscaled CMIP6 climate projections | [ccmmf/caladaptaer](https://github.com/ccmmf/caladaptaer) | [docs](https://lebauerapproach.github.io/caladaptaer/) |
 
 ## People 
 
