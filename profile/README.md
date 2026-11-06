@@ -18,6 +18,14 @@ This requirement sets a bar for transparency, and a foundation for future innova
 
 For more details, see the [full project proposal](https://zenodo.org/records/13377118).
 
+## Documentation
+
+- [Calibration](https://ccmmf.github.io/calibration/): calibration of SIPNET soil carbon parameters against a long term field trial, and a benchmark of modeled management effects against the published literature
+- [Calibration and validation data](https://ccmmf.github.io/cal-val-data/): site measurements of soil carbon and greenhouse gas fluxes, and practice effects synthesized from the published literature
+- [Uncertainty](https://ccmmf.github.io/uncertainty/): local and global sensitivity analyses of modeled soil carbon and nitrous oxide
+- [Downscaling](https://ccmmf.github.io/downscaling/): historical inventory (2016-2023) of soil carbon, aboveground biomass, nitrous oxide and methane for California cropland at field and county scale, and scenario projections to 2045
+- [caladaptaer](https://lebauerapproach.github.io/caladaptaer/): R access to the Cal-Adapt Analytics Engine downscaled CMIP6 climate projections
+
 ## People 
 
 - Chris Black, Pools and Fluxes LLC
